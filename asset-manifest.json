@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TailwindcssFramework-OnePageResponsiveWebsite/static/css/main.f1e1cd2e.css",
+    "main.js": "/TailwindcssFramework-OnePageResponsiveWebsite/static/js/main.9425cdb8.js",
+    "index.html": "/TailwindcssFramework-OnePageResponsiveWebsite/index.html",
+    "main.f1e1cd2e.css.map": "/TailwindcssFramework-OnePageResponsiveWebsite/static/css/main.f1e1cd2e.css.map",
+    "main.9425cdb8.js.map": "/TailwindcssFramework-OnePageResponsiveWebsite/static/js/main.9425cdb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e1cd2e.css",
+    "static/js/main.9425cdb8.js"
+  ]
+}
